@@ -1,0 +1,36 @@
+*   [33mcommit 6d67b500b36b2d5fe594f6b75f90bda119fada81[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: ec60b01 1da3694
+[31m|[m [32m|[m Author: victor <victor.lorentefernandez@alumnos.alboradafp.es>
+[31m|[m [32m|[m Date:   Thu Jan 22 09:46:46 2026 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Añadida función coseno
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 1da369436da008931707a7cd5fdf2067c64f8809[m[33m ([m[1;31morigin/feature-logaritmo[m[33m, [m[1;32mfeature-logaritmo[m[33m)[m
+[31m|[m [32m|[m Author: victor <victor.lorentefernandez@alumnos.alboradafp.es>
+[31m|[m [32m|[m Date:   Thu Jan 22 09:41:09 2026 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Añadida función logaritmo
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit ec60b01a0696252fe20a3f99f63b941ba0451c48[m[33m ([m[1;31morigin/feature-coseno[m[33m, [m[1;32mfeature-coseno[m[33m)[m
+[32m|[m[32m/[m  Author: victor <victor.lorentefernandez@alumnos.alboradafp.es>
+[32m|[m   Date:   Thu Jan 22 09:33:36 2026 +0100
+[32m|[m   
+[32m|[m       Añadida función coseno
+[32m|[m 
+* [33mcommit c3be1c5a7ff5312cb2d8b484305fae7959903739[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[32m|[m Author: jantunez14 <j.antunez.durango@gmail.com>
+[32m|[m Date:   Sat Feb 2 14:58:07 2019 +0100
+[32m|[m 
+[32m|[m     sin(x) button
+[32m|[m 
+* [33mcommit c508104f4dac3fc8be2b7b7770659763f7e05bdf[m
+[32m|[m Author: jantunez14 <j.antunez.durango@gmail.com>
+[32m|[m Date:   Sat Feb 2 14:39:48 2019 +0100
+[32m|[m 
+[32m|[m     x^4 button
+[32m|[m 
+* [33mcommit 1895d4fd16534c427bbe156178a48e636daef0bd[m
+  Author: jantunez14 <j.antunez.durango@gmail.com>
+  Date:   Sat Feb 2 14:20:23 2019 +0100
+  
+      x^3 button
